@@ -1,0 +1,8 @@
+= Things to do
+
+* Create public key and put on github
+* Create SPA including
+  ** bootstrap
+  ** backbone
+  ** React
+  
